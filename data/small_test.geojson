@@ -1,0 +1,238 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 0,
+                "change_status_date1": "Prior Construction",
+                "change_status_date2": "Prior Construction",
+                "change_status_date3": "Land Cleared",
+                "change_status_date4": "Land Cleared",
+                "change_status_date5": "Land Cleared",
+                "date1": "20-11-2014",
+                "date2": "29-11-2015",
+                "date3": "16-05-2017",
+                "date4": "27-10-2018",
+                "date5": "19-03-2020",
+                "urban_types": "None",
+                "geography_types": "Barren Land"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.974036052112822,
+                            36.014152378370532
+                        ],
+                        [
+                            103.974479377774401,
+                            36.014050688769935
+                        ],
+                        [
+                            103.974443782283331,
+                            36.01392701222867
+                        ],
+                        [
+                            103.974023108297885,
+                            36.014028701829268
+                        ],
+                        [
+                            103.974036052112822,
+                            36.014152378370532
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 1,
+                "change_status_date1": "Prior Construction",
+                "change_status_date2": "Prior Construction",
+                "change_status_date3": "Land Cleared",
+                "change_status_date4": "Land Cleared",
+                "change_status_date5": "Land Cleared",
+                "date1": "20-11-2014",
+                "date2": "29-11-2015",
+                "date3": "16-05-2017",
+                "date4": "27-10-2018",
+                "date5": "19-03-2020",
+                "urban_types": "None",
+                "geography_types": "Barren Land"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.974650883322312,
+                            36.014039695299601
+                        ],
+                        [
+                            103.974595872108836,
+                            36.013852806303916
+                        ],
+                        [
+                            103.975404860542369,
+                            36.01365492383789
+                        ],
+                        [
+                            103.975433984125971,
+                            36.013803335687406
+                        ],
+                        [
+                            103.974650883322312,
+                            36.014039695299601
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 2,
+                "change_status_date1": "Prior Construction",
+                "change_status_date2": "Prior Construction",
+                "change_status_date3": "Land Cleared",
+                "change_status_date4": "Land Cleared",
+                "change_status_date5": "Land Cleared",
+                "date1": "20-11-2014",
+                "date2": "29-11-2015",
+                "date3": "16-05-2017",
+                "date4": "27-10-2018",
+                "date5": "19-03-2020",
+                "urban_types": "None",
+                "geography_types": "Barren Land"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.97491623152851,
+                            36.014089165916111
+                        ],
+                        [
+                            103.974896815806105,
+                            36.01402045672652
+                        ],
+                        [
+                            103.975414568403565,
+                            36.013852806303916
+                        ],
+                        [
+                            103.975427512218502,
+                            36.013962741007262
+                        ],
+                        [
+                            103.97491623152851,
+                            36.014089165916111
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 121702,
+                "change_status_date1": "Land Cleared",
+                "change_status_date2": "Land Cleared",
+                "change_status_date3": "Construction Midway",
+                "change_status_date4": "Construction Done",
+                "change_status_date5": "Construction Done",
+                "date1": "30-07-2014",
+                "date2": "09-02-2015",
+                "date3": "02-03-2017",
+                "date4": "19-08-2018",
+                "date5": "22-01-2019",
+                "urban_types": "Sparse Urban",
+                "geography_types": "Sparse Forest,Dense Forest"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            113.21158262289029,
+                            29.375731834681346
+                        ],
+                        [
+                            113.211623851826545,
+                            29.375555235912618
+                        ],
+                        [
+                            113.211756908848088,
+                            29.375646058136535
+                        ],
+                        [
+                            113.211708183741607,
+                            29.37577556390027
+                        ],
+                        [
+                            113.21158262289029,
+                            29.375731834681346
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 121703,
+                "change_status_date1": "Greenland",
+                "change_status_date2": "Land Cleared",
+                "change_status_date3": "Construction Done",
+                "change_status_date4": "Construction Done",
+                "change_status_date5": "Construction Done",
+                "date1": "30-07-2014",
+                "date2": "09-02-2015",
+                "date3": "02-03-2017",
+                "date4": "19-08-2018",
+                "date5": "22-01-2019",
+                "urban_types": "Sparse Urban",
+                "geography_types": "Sparse Forest,Dense Forest"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            113.212036141189074,
+                            29.375161672942308
+                        ],
+                        [
+                            113.211951809274012,
+                            29.375082623969639
+                        ],
+                        [
+                            113.212056755657201,
+                            29.374963209564118
+                        ],
+                        [
+                            113.212154205870164,
+                            29.375040576643752
+                        ],
+                        [
+                            113.212109228848803,
+                            29.375138126439811
+                        ],
+                        [
+                            113.212054881614648,
+                            29.375166718621415
+                        ],
+                        [
+                            113.212036141189074,
+                            29.375161672942308
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 0,
+                "change_type": "Commercial",
+                "change_status_date1": "Land Cleared",
+                "change_status_date2": "Construction Midway",
+                "change_status_date3": "Construction Done",
+                "change_status_date4": "Construction Done",
+                "change_status_date5": "Construction Done",
+                "date1": "29-05-2014",
+                "date2": "13-09-2015",
+                "date3": "25-02-2017",
+                "date4": "10-10-2018",
+                "date5": "19-05-2020",
+                "urban_types": "Industrial",
+                "geography_types": "River,Sparse Forest,Grass Land"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            116.975634236099921,
+                            38.890015408908404
+                        ],
+                        [
+                            116.9759038351296,
+                            38.890057489859807
+                        ],
+                        [
+                            116.976157575392833,
+                            38.890099570811216
+                        ],
+                        [
+                            116.976522327021229,
+                            38.887883307370359
+                        ],
+                        [
+                            116.97623686922509,
+                            38.887855253402755
+                        ],
+                        [
+                            116.975935552662506,
+                            38.887855253402755
+                        ],
+                        [
+                            116.975634236099921,
+                            38.890015408908404
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 1,
+                "change_type": "Commercial",
+                "change_status_date1": "Greenland",
+                "change_status_date2": "Greenland",
+                "change_status_date3": "Construction Done",
+                "change_status_date4": "Construction Done",
+                "change_status_date5": "Construction Done",
+                "date1": "29-05-2014",
+                "date2": "13-09-2015",
+                "date3": "25-02-2017",
+                "date4": "10-10-2018",
+                "date5": "19-05-2020",
+                "urban_types": "Sparse Urban",
+                "geography_types": "Sparse Forest,Grass Land"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            116.974999885441861,
+                            38.889692788280932
+                        ],
+                        [
+                            116.975237766938633,
+                            38.889706815264738
+                        ],
+                        [
+                            116.975491507201866,
+                            38.889776950183752
+                        ],
+                        [
+                            116.97560251856703,
+                            38.88880908830135
+                        ],
+                        [
+                            116.975110896807024,
+                            38.888752980366142
+                        ],
+                        [
+                            116.974999885441861,
+                            38.889692788280932
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 2,
+                "change_type": "Commercial",
+                "change_status_date1": "Land Cleared",
+                "change_status_date2": "Land Cleared",
+                "change_status_date3": "Construction Done",
+                "change_status_date4": "Construction Done",
+                "change_status_date5": "Construction Done",
+                "date1": "29-05-2014",
+                "date2": "13-09-2015",
+                "date3": "25-02-2017",
+                "date4": "10-10-2018",
+                "date5": "19-05-2020",
+                "urban_types": "Sparse Urban",
+                "geography_types": "Sparse Forest,Grass Land"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            116.975190190639282,
+                            38.88847244069008
+                        ],
+                        [
+                            116.975681812399287,
+                            38.888500494657684
+                        ],
+                        [
+                            116.975776964997991,
+                            38.887546659759089
+                        ],
+                        [
+                            116.975332919537337,
+                            38.887504578807679
+                        ],
+                        [
+                            116.975190190639282,
+                            38.88847244069008
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 310005,
+                "change_type": "Commercial",
+                "change_status_date1": "Land Cleared",
+                "change_status_date2": "Land Cleared",
+                "change_status_date3": "Land Cleared",
+                "change_status_date4": "Greenland",
+                "change_status_date5": "Greenland",
+                "date1": "18-11-2014",
+                "date2": "01-03-2016",
+                "date3": "01-01-2018",
+                "date4": "01-05-2019",
+                "date5": "01-04-2020",
+                "urban_types": "None",
+                "geography_types": "Coastal,Sparse Forest,Grass Land"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            139.807645133007668,
+                            35.609784118568804
+                        ],
+                        [
+                            139.807248796719733,
+                            35.609561715547159
+                        ],
+                        [
+                            139.807377606013318,
+                            35.609420186351571
+                        ],
+                        [
+                            139.807818530133659,
+                            35.60965067675582
+                        ],
+                        [
+                            139.807645133007668,
+                            35.609784118568804
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
